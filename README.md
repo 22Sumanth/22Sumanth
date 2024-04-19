@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Scikit-learn,Pandas,NumPy,Matplotlib,Seaborn,Machine Learning Algorithms**
 
-- 💬 Ask me about **Data Visualization,Data Analysis Technique,Machine Learning Algorithmss,**
+- 💬 Ask me about **Data Visualization,Data Analysis Technique,Machine Learning Algorithms,**
 
 - 📫 How to reach me **ssumanth535@gmail.com**
 
